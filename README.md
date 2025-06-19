@@ -13,7 +13,7 @@ Basic CRUD with Gin, GORM, and PostgreSQL
 - `DELETE`
 
 ## Port
-- `http://localhost:8080/api`
+- `http://localhost:8080/product`
 
 ## Run
 ```bash
