@@ -2,7 +2,8 @@
 Basic CRUD with Gin, GORM, and PostgreSQL
 
 ## Installation
-- PostgreSQL Driver ([lib/pq](https://github.com/lib/pq))
+- GORM ([gorm](https://gorm.io/gorm))
+- PostgreSQL Driver GORM ([gorm postgres](https://gorm.io/driver/postgres))
 - [Gin Framework](https://github.com/gin-gonic/gin)
 
 ## CRUD Features
